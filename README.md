@@ -7,7 +7,9 @@ Ett litet Windows-program för musens två tumknappar. Ett tryck kopierar, näst
 | Tumknapp 1, normalt Bakåt | Kopierar sökvägen till markerade filer eller mappar i Utforskaren | Klistrar in den sparade sökvägen |
 | Tumknapp 2, normalt Framåt | Skickar Ctrl+C | Skickar Ctrl+V |
 
-Efter inklistringen börjar samma knapp om med kopiering. Du kan byta plats på funktionerna, pausa och återställa båda knapparna i programfönstret.
+Efter inklistringen börjar samma knapp om med kopiering. Varje knapp har ett eget kort som visar vad nästa tryck gör. Välj **Pausa makron** för att använda knapparna som vanligt, eller **Börja om med kopiering** för att återställa växlingen. Du kan också byta plats på funktionerna och öppna **Hjälp** i programmet.
+
+![TumMakro 1.1 med tydliga kort för de två tumknapparna](assets/TumMakro-1.1.png)
 
 ## Hämta och kör
 
